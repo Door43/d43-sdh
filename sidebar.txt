@@ -10,6 +10,10 @@
 
   * [[sdh:obs|Open Bible Stories (sdh)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdh|d43-sdh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdh/archive/master.zip|d43-sdh.zip]]
+
 **Recent Changes**
 {{changes>ns = sdh}}
 
